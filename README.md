@@ -23,5 +23,5 @@ cvx_sat_MPC;
 and comment line 67:
 
 ```
-%ccvx_sat_open_loop;
+%cvx_sat_open_loop;
 ```
